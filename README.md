@@ -6,7 +6,7 @@
 
 - 😄 I’m a cloud native developer currently working on [spidernet-io](https://github.com/spidernet-io) CNI project. 
 - 😬 I used to do something about [Filecoin/lotus](https://github.com/filecoin-project/lotus) blockchain project. 
-- 🧐 I’m currently learning kubernetes, ingress, istio, envoy, coreDNS and [libp2p](https://github.com/libp2p), some blockchain stuff.
+- 🧐 I’m currently learning golang, network, kubernetes, ingress, istio, envoy, coreDNS, some blockchain stuff.
 
 <!--
 **TyleryangT/TyleryangT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
