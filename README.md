@@ -4,7 +4,7 @@
 
 ### Cloud && Tester
 
-- 😄 I’m a cloud native developer currently working on [spidernet-io](https://github.com/spidernet-io) CNI project. 
+- 😄 I’m a cloud native developer currently working on [gostudy](https://github.com/TyleryangT/gostudy) study project. 
 - 😬 I used to do something about [Filecoin/lotus](https://github.com/filecoin-project/lotus) blockchain project. 
 - 🧐 I’m currently learning golang, network, kubernetes, ingress, istio, envoy, coreDNS, some blockchain stuff.
 - ...
