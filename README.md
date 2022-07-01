@@ -8,13 +8,6 @@
 - 😬 I used to do something about [Filecoin/lotus](https://github.com/filecoin-project/lotus) blockchain project. 
 - 🧐 I’m currently learning kubernetes, ingress, istio, envoy, coreDNS and [libp2p](https://github.com/libp2p), some blockchain stuff.
 
-<a href="https://TyleryangT.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TyleryangT&show_icons=true" />
-</a>
-<a href="https://TyleryangT.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyleryangT&hide=html,ruby" />
-</a>
-
 <!--
 **TyleryangT/TyleryangT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
